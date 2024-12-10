@@ -37,8 +37,11 @@
 
 
 ### :fire: My Stats :
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daglar510&theme=vision-friendly-dark)](https://github.com/daglar510/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=daglar510&theme=vision-friendly-dark&include_all_commits=true&count_private=true)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=daglar510&theme=dark&background=000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daglar510&hide=hlsl&theme=vision-friendly-dark)
 
+### :trophy: :
+
+![trophy](https://github-trophies.vercel.app/?username=daglar510&theme=onedark)
 
