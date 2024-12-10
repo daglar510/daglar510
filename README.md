@@ -44,5 +44,5 @@
 
 ### :trophy: :
 
-![trophy](https://github-trophies.vercel.app/?username=daglar510&theme=onedark)
+![trophy](https://github-trophies.vercel.app/?username=daglar510&theme=onedark&row=1&column=6)
 
