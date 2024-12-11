@@ -39,7 +39,7 @@
 ### :fire: My Stats :
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=daglar510&theme=vision-friendly-dark&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daglar510&hide=hlsl&theme=vision-friendly-dark)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=daglar510&theme=dark&background=000000)
+
 
 
 ### :trophy: :
