@@ -37,9 +37,9 @@
 
 
 ### :fire: My Stats :
-![Dago's GitHub stats](https://github-readme-stats.vercel.app/api?username=daglar510&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daglar510&hide=hlsl,html,css&theme=vision-friendly-dark&include_all_commits=true&count_private=true)
-
+![Dago's GitHub stats](https://github-readme-stats-local-beta.vercel.app/api?username=daglar510&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Top Langs](https://github-readme-stats-local-beta.vercel.app/api/top-langs/?username=daglar510&stats_format=bytes&theme=vision-friendly-dark&hide=hlsl,html,css&include_all_commits=true&count_private=true&layout=donut)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daglar510&theme=vision_friendly_dark)
 
 
 ### :trophy: :
